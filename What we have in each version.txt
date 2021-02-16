@@ -1,0 +1,11 @@
+version 2 = Original, works like what we had in the assignment 3.
+Doesn't check every size of the shapes (radius, etc) - only specific range.
+Doesn't threshold is still a specific number.
+
+version 2.2 = like version 2, when tried to change so the radius we go with step=2.
+
+version 7 = Thickness version.
+
+version 8 = Resize version.
+
+version 100 = This is the code that only convert found shapes and arrows to mermaid.
